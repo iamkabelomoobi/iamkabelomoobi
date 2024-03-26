@@ -54,7 +54,7 @@
 
 ### Back-end Projects
 
-[JobQuest](https://github.com/the-berufegoru/job-quest)
+[JobStack](https://github.com/the-berufegoru/job-stack)
 
 ### Front-end Projects
 
@@ -63,4 +63,4 @@
 ### My GitHub Stats
 
 ![the-berufegoru's Stats](https://github-readme-stats.vercel.app/api?username=the-berufegoru&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![the-berufegoru's Streak](https://github-readme-streak-stats.herokuapp.com/?user=the-berufegoru&theme=vue-dark&hide_border=false)
+![the-berufegoru's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-berufegoru&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
