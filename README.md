@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook Icon">
 </a>
 <!-- Instagram -->
-<a href="https://www.instagram.com/moobi">
+<a href="https://www.instagram.com/the.berufegoru">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram Icon">
 </a>
 <!-- HackerRank -->
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white" alt="HackerRank Icon">
 </a>
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/your-profile-url">
+<a href="https://www.linkedin.com/in/kabelo-moobi-9192ba229">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn Icon">
 </a>
 
@@ -54,7 +54,9 @@
 
 ### Back-end Projects
 
-[JobStack](https://github.com/the-berufegoru/job-stack)
+[HireSphere](https://github.com/the-berufegoru/hire-sphere)
+[SwiftCart](https://github.com/the-berufegoru/swift-cart)
+[AuthForge](https://github.com/the-berufegoru/auth-forge)
 
 ### Front-end Projects
 
